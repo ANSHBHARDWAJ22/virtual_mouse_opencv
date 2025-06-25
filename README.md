@@ -86,13 +86,8 @@ Use a combination of:
 
 ---
 
-## 📷 Demo (Optional)
-
-> Include a small GIF or video showcasing:
-> - Mouse movement
-> - Left/right click
-> - Screenshot gesture
-
+## 📷 Demo 
+taken 2 screenshots
 ---
 
 
